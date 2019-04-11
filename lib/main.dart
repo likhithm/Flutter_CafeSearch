@@ -7,7 +7,7 @@ import 'package:location/location.dart' as LocationManager;
 import 'place_detail.dart';
 import 'nav_drawer.dart';
 
-const kGoogleApiKey = "AIzaSyBmIvM4vd2fWOooF5xP9LbKdSGYkDB3dYc";
+const kGoogleApiKey = "API_KEY";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 void main() {
