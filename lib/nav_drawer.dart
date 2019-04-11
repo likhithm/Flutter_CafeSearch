@@ -7,7 +7,7 @@ import 'package:location/location.dart' as LocationManager;
 import 'place_detail.dart';
 import 'main.dart';
 
-const kGoogleApiKey = "AIzaSyBmIvM4vd2fWOooF5xP9LbKdSGYkDB3dYc";
+const kGoogleApiKey = "API KEY";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 class DrawerBuilder extends StatefulWidget {
