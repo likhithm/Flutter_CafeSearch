@@ -19,7 +19,7 @@
         android:label="CafeSearch"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBmIvM4vd2fWOooF5xP9LbKdSGYkDB3dYc"/>
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
